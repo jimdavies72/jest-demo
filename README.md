@@ -1,2 +1,3 @@
 # jest-demo
-Jest Automated Testing
+
+CodeNation week 4: Jest Automated Testing
